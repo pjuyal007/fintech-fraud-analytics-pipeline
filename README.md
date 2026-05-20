@@ -101,6 +101,9 @@ Executive KPI monitoring and fraud business metrics.
 
 ---
 
+## DASHBOARD SCREENSHOTS
+
+
 ## Key Insights
 
 - Identified high-risk transaction patterns using velocity and fraud severity scoring.
@@ -110,16 +113,40 @@ Executive KPI monitoring and fraud business metrics.
 
 ---
 
+
+
 ## Project Structure
 
 ```text
-project folders here
+fintech-fraud-analytics-pipeline/
+│
+├── data/
+│   ├── dataset_info.txt
+│
+├── notebooks/
+│   ├── fintech_fraud_analysis.ipynb
+│
+├── sql/
+│   ├── schema_and_table_creation.sql
+│   ├── feature_engineering.sql
+│   ├── views_creation.sql
+│
+├── tableau/
+│   ├── fintech_fraud_dashboard.twbx
+│
+├── dashboard_screenshots/
+│   ├── fraud_intelligence_dashboard.png
+│   ├── customer_risk_dashboard.png
+│   ├── merchant_performance_dashboard.png
+│   ├── executive_overview_dashboard.png
+│
+├── requirements.txt
+├── README.md
 
-## Dashboard Screenshots
-
-
-
-
+```
 
 # AUTHOR
-## pankaj juyal
+## PANKAJ JUYAL
+
+
+
