@@ -104,7 +104,7 @@ Executive KPI monitoring and fraud business metrics.
 ## DASHBOARD SCREENSHOTS
 
 ![](Screenshots/Customer_Risk_and_Behaviour_Dashboard.png)
-![](Screenshots/Executive_Fraud_and_Business_Overview.png)
+![](Screenshots/Fintech_Fraud_Intelligence_Dashboard.png)
 ![](Screenshots/Merchant_Performance_Dashboard.png)
 
 
