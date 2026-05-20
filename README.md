@@ -103,7 +103,7 @@ Executive KPI monitoring and fraud business metrics.
 
 ## DASHBOARD SCREENSHOTS
 
-
+![](Screenshots/Customer_Risk_and_Behaviour_Dashboard.png)
 
 
 ## Key Insights
