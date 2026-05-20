@@ -1,0 +1,5 @@
+Dataset contains 400,000 synthetic fintech transaction records used for fraud analytics and risk detection.
+
+Dataset not uploaded due to size limitations.
+
+Download link :-   https://www.kaggle.com/datasets/rohit8527kmr7518/digital-payment-fraud-detection-benchmark
