@@ -104,6 +104,8 @@ Executive KPI monitoring and fraud business metrics.
 ## DASHBOARD SCREENSHOTS
 
 
+
+
 ## Key Insights
 
 - Identified high-risk transaction patterns using velocity and fraud severity scoring.
