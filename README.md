@@ -1,6 +1,6 @@
-# fintech-fraud-analytics-pipeline
+# Fintech-Fraud-Analytics-Pipeline
 
-# End-to-End FinTech Fraud Detection & Risk Analytics Pipeline
+## End-to-End FinTech Fraud Detection & Risk Analytics Pipeline
 
 ## Project Overview
 
